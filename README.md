@@ -11,6 +11,8 @@
 
 **Claude relit ce que tu lui demandes, et écrit les skills qui te manquent.**
 
+🎁 *Une création HelloPixDig, offerte gratuitement à tout le monde (licence MIT).*
+
 Tu refais les mêmes demandes de session en session sans t'en rendre compte. `improve-system` lit ton historique Claude Code **en local**, repère ce qui revient, et te propose (puis crée, après ton accord) les skills qui t'éviteront de le refaire.
 
 - 🔁 **Les tâches répétées** : ce que tu redemandes dans plusieurs sessions différentes
@@ -42,6 +44,8 @@ python3 scripts/scan_history.py --days 30 --json --no-examples
 ## English
 
 **Claude reads what you keep asking it, and writes the skills you are missing.**
+
+🎁 *Our own creation, given away free to everyone (MIT license).*
 
 You redo the same requests session after session without noticing. `improve-system` reads your Claude Code history **locally**, spots what keeps coming back, and suggests (then creates, with your approval) the skills that will stop you from repeating yourself.
 
